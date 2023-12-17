@@ -1,0 +1,20 @@
+NO ./texturse/greystone.xpm
+
+SO ./texturse/wood.xpm
+
+WE ./texturse/redbrick.xpm
+
+EA ./texturse/bluestone.xpm
+
+F 226,100,55
+
+C 55,30,9
+
+11111111
+10001001
+10001001
+1000D001
+10001001
+10N01001
+10001001
+11111111
